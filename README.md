@@ -17,11 +17,11 @@
   <a href="https://www.hackerrank.com/profile/brizaac" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="hackerrank logo"  />
   </a>
+   <a href="https://dev.to/izaacledererjunior" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="devto logo"  />
+  </a>
   <a href="https://stackoverflow.com/users/30561593/izaac-lederer-junior" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://dev.to/izaacledererjunior" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="devto logo"  />
   </a>
 </div>
 
