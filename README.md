@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/izaacledererjr">
+  <a href="https://www.linkedin.com/in/izaacledererjr" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Meu perfil no LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/30561593/izaac-lederer-junior">
