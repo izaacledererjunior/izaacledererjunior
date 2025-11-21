@@ -24,8 +24,8 @@
     <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Perfil no Reddit" />
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/profile/brizaac" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Perfil no HackerRank" />
+  <a href="https://leetcode.com/izaacledererjunior" target="_blank" rel="noopener noreferrer"> <!-- SUBSTITUA 'seu_username_leetcode' pelo seu username do LeetCode -->
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="Perfil no LeetCode" />
   </a>
   &nbsp;
 </div>
