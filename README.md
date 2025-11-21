@@ -13,7 +13,7 @@
   </a>
   &nbsp;
   <a href="https://stackoverflow.com/users/30561593/izaac-lederer-junior" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Stack Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Perfil no Stack Overflow" />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
   </a>
   &nbsp;
   <a href="https://medium.com/@brizaac" target="_blank" rel="noopener noreferrer"> 
