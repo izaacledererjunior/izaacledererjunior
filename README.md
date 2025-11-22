@@ -24,6 +24,10 @@
     <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Perfil no Reddit" />
   </a>
   &nbsp;
+  <a href="https://tutanota.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Tutanota&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="tutanota logo"  />
+  </a>
+  &nbsp;
 </div>
 
 ###
