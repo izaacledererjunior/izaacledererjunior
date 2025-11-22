@@ -66,6 +66,61 @@
 
 ###
 
+<!--
+---
+
+## My Key Projects
+
+<p align="left">
+  Here are some of the projects I'm most proud of, showcasing my skills in mobile, streaming, and full-stack development:
+  <ul>
+    <li>
+      <strong>[Project]</strong>: [A React Native application for seamless video streaming on mobile devices."].
+      <br>
+      Technologies: [React Native, TypeScript, Node.js, AWS].
+      <br>
+      <a href="[Link]">View on GitHub</a>
+    </li>
+    <li>
+      <strong>[Project 2 - BrightScript/Roku]</strong>: ["An innovative Roku channel developed with BrightScript and SceneGraph, focusing on interactive user experiences."].
+      <br>
+      Technologies: [BrightScript, SceneGraph, Roku SDK].
+      <br>
+      <a href="[Link]">View on GitHub</a>
+    </li>
+    <li>
+      <strong>[Project 3]</strong>: ["A backend API built with NestJS and PostgreSQL, supporting high-traffic data processing."].
+      <br>
+      Technologies: [NestJS, TypeScript, PostgreSQL, Docker].
+      <br>
+      <a href="[Link]">View on GitHub</a>
+    </li>
+  </ul>
+</p>
+
+---
+
+## My Latest Articles
+
+<p align="left">
+  I enjoy sharing my knowledge and insights with the community. Here are some of my recent publications:
+  <ul>
+    <li>
+      <strong>[Article]</strong>: ["Exploring advanced state management in React Native with React Query."].
+      <br>
+      <a href="[Link]">Read on Medium</a>
+    </li>
+    <li>
+      <strong>[ARticle 2]</strong>: ["A deep dive into optimizing BrightScript performance for Roku applications."].
+      <br>
+      <a href="[Link]">Read on Medium</a>
+    </li>
+  </ul>
+</p>
+
+---
+-->
+
 <h2 align="left">My Stats :</h3>
 
 ###
