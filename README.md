@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Meu perfil no LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:seu.email.tutanota@tutanota.com" target="_blank" rel="noopener noreferrer"> <!-- SUBSTITUA 'seu.email.tutanota@tutanota.com' pelo seu e-mail Tutanota -->
+  <a href="mailto:brizaac@tutanota.com" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/Email-840010?style=for-the-badge&logo=tutanota&logoColor=white" height="27" alt="Email de Contato Tutanota" />
   </a>
   <a href="https://medium.com/@brizaac" target="_blank" rel="noopener noreferrer"> 
