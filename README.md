@@ -8,6 +8,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Meu perfil no LinkedIn" />
   </a>
   &nbsp;
+  <a href="https://medium.com/@brizaac" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Perfil no Medium" />
+  </a>
   <a href="https://leetcode.com/izaacledererjunior" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="Perfil no LeetCode" />
   </a>
@@ -16,9 +19,6 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="stackoverflow logo"  />
   </a>
   &nbsp;
-  <a href="https://medium.com/@brizaac" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Perfil no Medium" />
-  </a>
   &nbsp;
   <a href="https://www.reddit.com/user/brizaac" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Perfil no Reddit" />
