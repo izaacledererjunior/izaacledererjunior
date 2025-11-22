@@ -24,10 +24,9 @@
     <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Perfil no Reddit" />
   </a>
   &nbsp;
-  <a href="https://tutanota.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Tutanota&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="tutanota logo"  />
+  <a href="mailto:seu.email.tutanota@tutanota.com" target="_blank" rel="noopener noreferrer"> <!-- SUBSTITUA 'seu.email.tutanota@tutanota.com' pelo seu e-mail Tutanota -->
+    <img src="https://img.shields.io/static/v1?message=Email&logo=tutanota&label=&color=840010&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="Email de Contato Tutanota" />
   </a>
-  &nbsp;
 </div>
 
 ###
